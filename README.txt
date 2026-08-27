@@ -1,5 +1,5 @@
 Pooja Point Android wrapper
-Website URL: https://www.amazon.in/
+Website URL: https://sandybrown-mallard-451971.hostingersite.com/
 App name: Pooja Point
 Package: in.pooja.point
 
